@@ -29,6 +29,84 @@
         creativity. In which, combining tools, color filters and drag bars are
         what you need to do to create a beautiful picture.
       </p>
+      <h2>Download Ps Touch Apk</h2>
+      <div class="text-center">
+        <img
+          alt="Ps Touch Apk download"
+          class="m-auto w-28"
+          src="~/assets/ps-touch-apk-download-latest.webp"
+        />
+      </div>
+      <table class="table-auto" id="table1">
+        <tbody>
+          <tr>
+            <td class="border px-4 py-2">&nbsp;<strong> App Name:</strong></td>
+            <td class="border px-4 py-2">Adobe Photoshop Touch</td>
+          </tr>
+          <tr>
+            <td class="border border-gray px-4 py-2">
+              &nbsp;<strong>Size:</strong>
+            </td>
+            <td class="border px-4 py-2">23MB</td>
+          </tr>
+          <tr>
+            <td class="border px-4 py-2">&nbsp;<strong>Version:</strong></td>
+            <td class="border px-4 py-2">v9.9.9</td>
+          </tr>
+          <tr>
+            <td class="border px-4 py-2">
+              &nbsp;<strong>Mod Features:</strong>
+            </td>
+            <td class="border px-4 py-2">[Unlocked, Ad-free]</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="text-center">
+        <a href="https://www.modapkly.com/download/5163/" rel="dofollow"
+          ><button
+            class="bg-white hover:bg-pslite text-pslite hover:text-white font-semibold py-2 px-4 border border-pscolor rounded shadow justify-center focus:outline-none focus:shadow-outline"
+          >
+            Download Apk
+          </button></a
+        >
+      </div>
+      <br />
+      <h3>How to download and install?</h3>
+      <p>
+        Adobe has announced that they no longer develop Adobe Photoshop Touch.
+        That means there won’t be any future updates. Besides, the developer
+        will focus on other products,
+        <a
+          href="https://www.adobe.com/in/products/photoshop-express.html"
+          rel="nofollow"
+          target="_blank"
+          >Adobe Photoshop Express</a
+        >
+        Premium and
+        <a href="https://lightroom.adobe.com/" rel="noopener" target="_blank"
+          >Adobe Lightroom</a
+        >
+        . In general, this is not too bad because Adobe Photoshop Touch can
+        still provide photo editing tools that are good enough for every user
+        experience. You will of course not be able to find it on
+        <a
+          href="https://play.google.com/store/apps/dev?id=4734916851270416020"
+          rel="nofollow"
+          target="_blank"
+          >PlayStore</a
+        >
+        or App Store but we can still help you install and use it for free.
+        Please follow our instructions below:
+      </p>
+      <p>
+        Download the APK file we provide below and then save it to your device.
+        <br />
+        Open the APK file, tap “Install” and wait for the installation process
+        to complete.
+        <br />
+        All done! Open the app and enjoy.
+      </p>
       <h2>The main key features of Ps Touch Apk</h2>
       <p>Lets talk about there key features of Ps Touch Apk :</p>
       <h3>1. The simplified interface and easy to use</h3>
@@ -59,6 +137,22 @@
         drag the Red, Green and Blue sliders to select new colors for the
         subject.
       </p>
+      <p>
+        Make professional-looking images easy to use with a digital studio on
+        your mobile device. With Photoshop Express, a fun, fast and simple image
+        editing program with one-touch transformations and image editing used by
+        millions of creatives worldwide, you can let your creativity run wild on
+        the go. With
+        <a
+          href="https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US"
+          rel="nofollow"
+          target="_blank"
+        >
+          Photoshop Express</a
+        >
+        you have the full range of tools and effects at your disposal
+      </p>
+
       <h3>3. Insert objects to a photo</h3>
       <p>
         In many cases, you want to add an object to the picture to make them
@@ -67,10 +161,17 @@
         family photo. Besides, the Scribble Selection tool will help you make
         photo compositions quickly and simply.
       </p>
+      <p>
+        It also supports DNG files on iOS 5-based devices by enabling the Camera
+        2.0 API operating system. Correction: Adobe has not yet promised Android
+        DNG support. Photoshop Touch is a new app that is free, and Adobe Login
+        ID is free. It debuts in a more competitive app environment than
+        Photoshop Touch.
+      </p>
       <h3>4. Create funny photos</h3>
       <p>
         Adobe
-        <a href="https://www.photoshop.com/" rel="noopener" target="_blank"
+        <a href="https://www.photoshop.com/" rel="nofollow" target="_blank"
           >Photoshop</a
         >
         Touch supports the in-app snapshot. You can combine any image into a
@@ -124,7 +225,7 @@
       </p>
       <p>
         Understanding this, the developer
-        <a href="https://www.adobe.com/in/" rel="noopener" target="_blank"
+        <a href="https://www.adobe.com/in/" rel="nofollow" target="_blank"
           >Adobe</a
         >
         has integrated a detailed instruction right from the home screen so that
@@ -133,84 +234,6 @@
         But these are just suggestions to help users make good modifications.
         You can completely create new changes by changing the editing parameters
         or using different tools together.
-      </p>
-      <h2>Download Ps Touch Apk</h2>
-      <div class="text-center">
-        <img
-          alt="Ps Touch Apk download"
-          class="m-auto w-28"
-          src="~/assets/ps-touch-apk-download-latest.webp"
-        />
-      </div>
-      <table class="table-auto" id="table1">
-        <tbody>
-          <tr>
-            <td class="border px-4 py-2">&nbsp;<strong> App Name:</strong></td>
-            <td class="border px-4 py-2">Adobe Photoshop Touch</td>
-          </tr>
-          <tr>
-            <td class="border border-gray px-4 py-2">
-              &nbsp;<strong>Size:</strong>
-            </td>
-            <td class="border px-4 py-2">23MB</td>
-          </tr>
-          <tr>
-            <td class="border px-4 py-2">&nbsp;<strong>Version:</strong></td>
-            <td class="border px-4 py-2">v9.9.9</td>
-          </tr>
-          <tr>
-            <td class="border px-4 py-2">
-              &nbsp;<strong>Mod Features:</strong>
-            </td>
-            <td class="border px-4 py-2">[Unlocked, Ad-free]</td>
-          </tr>
-        </tbody>
-      </table>
-
-      <div class="text-center">
-        <a href="https://www.modapkly.com/download/5163/" rel="noopener"
-          ><button
-            class="bg-white hover:bg-pslite text-pslite hover:text-white font-semibold py-2 px-4 border border-pscolor rounded shadow justify-center focus:outline-none focus:shadow-outline"
-          >
-            Download Apk
-          </button></a
-        >
-      </div>
-      <br />
-      <h3>How to download and install?</h3>
-      <p>
-        Adobe has announced that they no longer develop Adobe Photoshop Touch.
-        That means there won’t be any future updates. Besides, the developer
-        will focus on other products,
-        <a
-          href="https://www.adobe.com/in/products/photoshop-express.html"
-          rel="noopener"
-          target="_blank"
-          >Adobe Photoshop Express</a
-        >
-        Premium and
-        <a href="https://lightroom.adobe.com/" rel="noopener" target="_blank"
-          >Adobe Lightroom</a
-        >
-        . In general, this is not too bad because Adobe Photoshop Touch can
-        still provide photo editing tools that are good enough for every user
-        experience. You will of course not be able to find it on
-        <a
-          href="https://play.google.com/store/apps/dev?id=4734916851270416020"
-          rel="noopener"
-          target="_blank"
-          >PlayStore</a
-        >
-        or App Store but we can still help you install and use it for free.
-        Please follow our instructions below:
-      </p>
-      <p>
-        Download the APK file we provide below and then save it to your device.
-        <br />
-        Open the APK file, tap “Install” and wait for the installation process
-        to complete.
-        <br />
-        All done! Open the app and enjoy.
       </p>
       <h2>Adobe Photoshop PS Touch Mod APK - FAQ</h2>
       <ul>
@@ -291,6 +314,63 @@
 
 <script>
 export default {
+  head() {
+    return {
+      title: '[100% Working] Adobe Photoshop Ps Touch Apk Download [Mod]',
+      link: [{ rel: 'canonical', href: 'https://pstouchapk.com' }],
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk [Mod]',
+        },
+        {
+          name: 'keywords',
+          content:
+            'Ps Touch Apk Download, Ps Touch Apk,Adobe Photoshop Touch Apk, ps touch,ps touch old version,ps touch mod apk',
+        },
+        {
+          property: 'og:type',
+          content: 'website',
+        },
+        {
+          property: 'og:title',
+          content: '[100% Working] Adobe Photoshop Ps Touch Apk Download [Mod]',
+        },
+        {
+          property: 'og:description',
+          content:
+            'Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk [Mod]',
+        },
+        {
+          property: 'og:image',
+          content: '/_nuxt/assets/ps-touch-apk-download.webp',
+        },
+        {
+          property: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          property: 'twitter:url',
+          content: 'https://pstouchapk.com',
+        },
+        {
+          property: 'twitter:title',
+          content: '[100% Working] Adobe Photoshop Ps Touch Apk Download [Mod]',
+        },
+        {
+          property: 'twitter:description',
+          content:
+            'Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk [Mod]',
+        },
+        {
+          property: 'twitter:image',
+          content: '/_nuxt/assets/ps-touch-apk-download.webp',
+        },
+      ],
+    }
+  },
   jsonld() {
     return {
       '@context': 'http://schema.org',
@@ -355,7 +435,8 @@ export default {
           headline: 'Adobe photoshop Ps Touch Apk Download [100% Working] ★',
           description:
             'Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk',
-          image: 'https://pstouchapk.com/ps%20touch%20apk%20download.webp',
+          image:
+            'https://pstouchapk.com/_nuxt/assets/ps-touch-apk-download.webp',
           author: {
             '@type': 'Person',
             name: 'PsTouchApk',
@@ -365,7 +446,7 @@ export default {
             name: 'PsTouchApk',
             logo: {
               '@type': 'ImageObject',
-              url: 'https://pstouchapk.com/images/pstouchapk.png',
+              url: 'https://pstouchapk.com/_nuxt/images/pstouchapk.png',
               width: 50,
               height: 50,
             },
@@ -374,24 +455,6 @@ export default {
           dateModified: '2020-06-04',
         },
       ],
-    }
-  },
-  async asyncData({
-    $content,
-    isDev,
-    route,
-    store,
-    env,
-    params,
-    query,
-    req,
-    res,
-    redirect,
-    error,
-  }) {
-    const articles = await $content('Home').fetch()
-    return {
-      articles,
     }
   },
 }

@@ -32,6 +32,7 @@
 .prose a {
   color: #2f41b7;
   text-decoration: none;
+  font-weight: 600;
 }
 .prose span {
   color: #2f41b7;

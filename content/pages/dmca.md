@@ -1,3 +1,8 @@
+---
+title: DMCA For PstouchApk.com
+description: DMCAPrivacy Policy For PstouchApk.com
+---
+
 # [Pstouchapk](https://Pstouchapk.com) – DMCA Policy
 
 Pstouchapk.com is in compliance with 17 U.S.C. § 512 and the Digital Millennium Copyright Act (“DMCA”). It is our policy to respond to any infringement notices and take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws.

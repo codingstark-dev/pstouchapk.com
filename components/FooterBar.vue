@@ -1,5 +1,5 @@
 <template>
-  <footer class="">
+  <footer>
     <div class="bg-pscolor h-8 text-center">
       <div
         class="flex justify-around max-w-md m-auto font-semibold text-white text-sm items-center align-middle p-1.5"
@@ -10,7 +10,12 @@
         <a href="/disclaimer" ref="dofollow" class="hover:text-blue-600"
           >Disclaimer</a
         ><a href="/dmca" ref="dofollow" class="hover:text-blue-600">DMCA</a>
-        <a href="" ref="dofollow" class="hover:text-blue-600">Contact Us</a>
+        <a
+          href="mailto:filemayac@gmail.com"
+          ref="dofollow"
+          class="hover:text-blue-600"
+          >Contact Us</a
+        >
       </div>
     </div>
     <div class="bg-pslite text-white font-semibold p-4 text-center">
@@ -27,7 +32,3 @@
     </div>
   </footer>
 </template>
-
-<script>
-export default {}
-</script>

@@ -1,3 +1,7 @@
+---
+title: Disclaimer For PstouchApk.com
+description: Disclaimer For PstouchApk.com
+---
 Disclaimer for pstouchapk
 =========================
 
