@@ -13,7 +13,7 @@
       <h2>☆ About Ps Touch Apk Download ☆</h2>
       <img
         alt="Ps Touch Apk download"
-        class="banner"
+        class="w-auto"
         src="~/assets/ps-touch-apk-download.webp"
       />
       <p>
@@ -79,7 +79,7 @@
         will focus on other products,
         <a
           href="https://www.adobe.com/in/products/photoshop-express.html"
-          rel="nofollow"
+          rel="noreferrer"
           target="_blank"
           >Adobe Photoshop Express</a
         >
@@ -92,7 +92,7 @@
         experience. You will of course not be able to find it on
         <a
           href="https://play.google.com/store/apps/dev?id=4734916851270416020"
-          rel="nofollow"
+          rel="noreferrer"
           target="_blank"
           >PlayStore</a
         >
@@ -145,7 +145,7 @@
         the go. With
         <a
           href="https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US"
-          rel="nofollow"
+          rel="noreferrer"
           target="_blank"
         >
           Photoshop Express</a
@@ -171,7 +171,7 @@
       <h3>4. Create funny photos</h3>
       <p>
         Adobe
-        <a href="https://www.photoshop.com/" rel="nofollow" target="_blank"
+        <a href="https://www.photoshop.com/" rel="noreferrer" target="_blank"
           >Photoshop</a
         >
         Touch supports the in-app snapshot. You can combine any image into a
@@ -225,7 +225,7 @@
       </p>
       <p>
         Understanding this, the developer
-        <a href="https://www.adobe.com/in/" rel="nofollow" target="_blank"
+        <a href="https://www.adobe.com/in/" rel="noreferrer" target="_blank"
           >Adobe</a
         >
         has integrated a detailed instruction right from the home screen so that
@@ -451,8 +451,8 @@ export default {
               height: 50,
             },
           },
-          datePublished: '2020-06-03',
-          dateModified: '2020-06-04',
+          datePublished: '2021-04-29',
+          dateModified: '2021-04-29',
         },
       ],
     }

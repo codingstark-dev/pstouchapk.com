@@ -6,6 +6,5 @@
   font-family: 'DmSans';
   font-weight: 300;
   src: url('~assets/fonts/DMSans-Regular.ttf') format('truetype');
+  font-display: swap;
 }
-
-

@@ -10,7 +10,13 @@ export default {
         name: 'theme-color',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/pstouchapk.png' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/pstouchapk.png' },
+      {
+        rel: 'apple-touch-icon',
+        href: '/pstouchapk.png',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -38,8 +44,40 @@ export default {
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
+    meta: {
+      title: 'PsTouchApk',
+      author: 'Himanshu',
+    },
     manifest: {
       lang: 'en',
+      display: 'browser',
+      theme_color: '#192a93',
+      icons: [
+        {
+          src: '/icon-192x192.png',
+          sizes: '192x192',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+        {
+          src: '/icon-256x256.png',
+          sizes: '256x256',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+        {
+          src: '/icon-384x384.png',
+          sizes: '384x384',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+        {
+          src: '/icon-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+      ],
     },
   },
 
@@ -47,5 +85,19 @@ export default {
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    html: {
+      minify: {
+        collapseBooleanAttributes: true,
+        decodeEntities: true,
+        minifyCSS: true,
+        minifyJS: true,
+        processConditionalComments: true,
+        removeEmptyAttributes: true,
+        removeRedundantAttributes: true,
+        trimCustomFragments: true,
+        useShortDoctype: true,
+      },
+    },
+  },
 }
