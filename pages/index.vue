@@ -13,7 +13,7 @@
       <h2>☆ About Ps Touch Apk Download ☆</h2>
       <img
         alt="Ps Touch Apk download"
-        class="w-auto"
+        class="w-full h-auto"
         src="~/assets/ps-touch-apk-download.webp"
       />
       <p>
@@ -33,7 +33,7 @@
       <div class="text-center">
         <img
           alt="Ps Touch Apk download"
-          class="m-auto w-28"
+          class="m-auto w-28 h-auto"
           src="~/assets/ps-touch-apk-download-latest.webp"
         />
       </div>

@@ -50,7 +50,7 @@ export default {
     },
     manifest: {
       lang: 'en',
-      display: 'browser',
+      display: 'minimal-ui',
       theme_color: '#192a93',
       icons: [
         {
