@@ -2,14 +2,14 @@ export default {
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    script: [
-      {
-        async: true,
-        src:
-          'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6825052184345766',
-        crossorigin: 'anonymous',
-      },
-    ],
+    // script: [
+    //   // {
+    //   //   async: true,
+    //   //   src:
+    //   //     'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6825052184345766',
+    //   //   crossorigin: 'anonymous',
+    //   // },
+    // ],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
